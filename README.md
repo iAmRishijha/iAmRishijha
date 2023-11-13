@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 👨‍💻 All of my projects are available [Here](github.com/iAmRishijha?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/iAmRishijha?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, DSA**
 
