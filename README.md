@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
-<h3 align="center">Machine Learning Developer, Problem Solving</h3>
+<h3 align="center">Machine Learning Engineer, Problem Solving</h3>
 
 - 🔭 I’m currently working on **Driver Drowsiness Alert System**
 
