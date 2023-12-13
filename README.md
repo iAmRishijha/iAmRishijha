@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rishijha238@gmail.com**
 
-- 📄 Wanna Know about my experiences?? [Click Here](http://bit.ly/Rishi-resume)
+- 📄 Wanna Know about my experiences?? [Portfolio](https://iamrishijha.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
