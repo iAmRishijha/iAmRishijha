@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">Machine Learning Engineer, Front-End Developer, Problem Solving</h3>
 
-- 🔭 I’m currently working on **Driver Drowsiness Alert System**
+- 🔭 I’m currently looking for **Intern/Full-time Opportunities**
 
 - 🌱 I’m currently learning **Machine Learning**
 
