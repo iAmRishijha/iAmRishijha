@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for Intern/Full-time Opportunities<br><br>🌱 I’m currently learning Django Development<br><br>👯 I’m looking to collaborate on Django Projects<br><br>👨‍💻 All of my projects are available [Here](https://github.com/iAmRishijha?tab=repositories)<br><br>💬 Ask me about Machine Learning, DSA, Django<br><br>📫 How to reach me rishijha238@gmail.com<br><br>🌐 Checkout my [Portfolio](https://iamrishijha.github.io/portfolio/)
+🔭 I’m currently looking for Intern/Full-time Opportunities<br><br>🌱 I’m currently learning JavaScript<br><br>👯 I’m looking to collaborate on JavaScript Projects<br><br>👨‍💻 All of my projects are available [Here](https://github.com/iAmRishijha?tab=repositories)<br><br>💬 Ask me about Machine Learning, DSA, Django<br><br>📫 How to reach me rishijha238@gmail.com<br><br>🌐 Checkout my [Portfolio](https://iamrishijha.github.io/portfolio/)
 
 
 ## 🌐 Socials:
